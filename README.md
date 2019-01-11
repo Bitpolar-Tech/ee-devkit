@@ -16,9 +16,9 @@
 Consider renaming the system folder to whatever you like. Just remember to edit the admin.php and index.php in the public folder. admin.php can also be renamed.
 
 ### Installation
-1. `git clone https://github.com/Bitpolar-Tech/ee-devkit.git`
+1. `git clone https://github.com/Bitpolar-Tech/ee-devkit.git .`
 2. `npm install`
 3. Configure host to point to public folder
 4. Create empty database
-5. Open admin.php in browser
+5. Navigate to admin.php in your browser
 6. Follow instructions
